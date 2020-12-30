@@ -1,0 +1,81 @@
+ header #topo-site{
+    width: 500px;
+    background: lawngreen;
+}
+
+
+a {
+    color: rgb(240, 236, 8);
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    background: rgba(7, 1, 61, 0.808);
+}
+
+a:hover {
+    color: rgb(243, 243, 240);
+}
+
+p{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(50, 38, 104);
+}
+
+h2:hover{
+    color: rgba(7, 44, 99, 0.452);
+}
+
+hr{
+    border: 1px solid rgba(40, 2, 71, 0.521);
+}
+
+ol{
+    color: rgb(36, 4, 71);
+    text-decoration: none;
+}
+
+h4{
+    margin-top: 90px;
+    font-size: 9px;
+    color: grey;
+}
+
+h5{
+    color: rgb(25, 3, 85);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+input {
+    text-align: center;
+    padding: 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+textarea{
+    width: 182px;
+    border-radius: 5px 5px;
+}
+
+.botEnvia{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 300;
+    color: lemonchiffon;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 108px;
+    padding: 2px;
+    width: 80px;
+    background: rgba(23, 1, 48, 0.699);
+}
+
+.botEnvia:hover{
+    background: rgba(15, 1, 53, 0.938);
+}
